@@ -1,4 +1,4 @@
-Task Manager App
+#Task Manager App
 This is a simple task management application built with React for the frontend, Express.js for the backend, and SQL database for data storage.
 
 Installation
@@ -18,11 +18,11 @@ Install dependencies for both the frontend and backend:
 
 bash
 Copy code
-# Navigate to the frontend directory
+## Navigate to the frontend directory
 cd frontend
 npm install
 
-# Navigate to the backend directory
+## Navigate to the backend directory
 cd ../backend
 npm install
 Setup
