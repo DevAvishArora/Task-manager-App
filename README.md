@@ -1,4 +1,4 @@
-#Task Manager App
+# Task Manager App
 This is a simple task management application built with React for the frontend, Express.js for the backend, and SQL database for data storage.
 
 Installation
