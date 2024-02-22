@@ -30,6 +30,7 @@ Backend (Express.js)
 Set up your SQL database (e.g., PostgreSQL) and ensure you have the necessary credentials to connect to it.
 
 Create a .env file in the backend directory and add the following environment variables:
+![image](https://github.com/DevAvishArora/Task-manager-App/assets/138298644/0d98abde-9a70-487d-ad26-09f7d1bf0767)
 
 plaintext
 Copy code
